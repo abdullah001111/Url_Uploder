@@ -37,7 +37,7 @@ class Translation(object):
     TECH_VJ_ABOUT_TEXT = """
 <b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴍᴀʏʜᴇᴍ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Mayhem-Bots">ᴍᴀʏʜᴇᴍ ʙᴏᴛs</a>
+🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Mayhem_Bots">ᴍᴀʏʜᴇᴍ ʙᴏᴛs</a>
 
 🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
